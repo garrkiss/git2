@@ -1,5 +1,8 @@
 # Домашнее задание к занятию "`Домашнее задание к занятию «Основы Git»`" - `Бакулев Евгений`
 
+[Ccсылка на gitlab](https://gitlab.com/garrkiss/devops-netology)
+[Ccсылка на github](https://github.com/garrkiss/devops-netology)
+
 
 ### Решение 1 Знакомимся с GitLab и Bitbucket
 
